@@ -1,15 +1,25 @@
-# Projeto integrador Fatec - Grupo 01 - Coffeend
+# __Projeto Integrador Fatec - Grupo 01 - Coffeend__
 \
-##Nome dos Integrantes;\
+##__Nome dos Integrantes;__\
 \
-ALEXIA KARINE SILVA DOS SANTOS\
-AMANDA DE MORAES MENDES\
-BRUNA MARIA DA SILVA GONSALVES - MASTER\
-LEONARDO RODRIGUES MIRANDA LINS - MASTER\
-LUAN PEREIRA DOS SANTOS SILVA\
-ORLANDO PEREIRA DE SEIXAS NETO\
-THIAGO PEREIRA DINIZ SILVA\
-VALDINEY JOSE DO NASCIMENTO\
+***
+* Alexia Karine Silva dos Santos\
+* Amanda de Moraes Mendes\
+* Bruna Maria da Silva Gonsalves - Master\
+* Leonardo Rodrigues Miranda Lins - Master\
+* Luan Pereira dos Santos Silva\
+* Orlando Pereira de Seixas Neto\
+* Thiago Pereira Diniz Silva\
+* Valdiney José do Nascimento\
+***
+
+##__Público Alvo__\
+***
+O nosso público alvo é um cliente específico sendo este um motorista autonomo que possue uma vam e presta serviço de transporte escolar.
+
+##**Objetivo**
+***
+Criação de aplicativo
 
 Video:https://www.videoask.com/fxvpnmq41
 
@@ -26,3 +36,11 @@ Definição de rota. A partir de um ponto de saída e um destino, o app sugere a
 
 Função “hora prevista”. O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta)
 
+![](https://www.figma.com/file/lSS3WnJYCSgczRPijLtzSp/prototipo?node-id=34%3A386)\
+
+Entregas
+
+1. Protótipo de telas 
+2. Melhorar as telas 
+3. Inclusão das telas do protótipo no app inventor 
+4. Dividir as tarefas em relação a programação das telas
