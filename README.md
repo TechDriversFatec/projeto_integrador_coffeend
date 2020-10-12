@@ -1,23 +1,23 @@
 # __Projeto Integrador Fatec - Grupo 01 - Coffeend__
-\
-##__Nome dos Integrantes;__\
-\
+
+## __Nome dos Integrantes;__
+
 ***
-* Alexia Karine Silva dos Santos\
-* Amanda de Moraes Mendes\
-* Bruna Maria da Silva Gonsalves - Master\
-* Leonardo Rodrigues Miranda Lins - Master\
-* Luan Pereira dos Santos Silva\
-* Orlando Pereira de Seixas Neto\
-* Thiago Pereira Diniz Silva\
-* Valdiney José do Nascimento\
+* Alexia Karine Silva dos Santos
+* Amanda de Moraes Mendes
+* Bruna Maria da Silva Gonsalves - Master
+* Leonardo Rodrigues Miranda Lins - Master
+* Luan Pereira dos Santos Silva
+* Orlando Pereira de Seixas Neto
+* Thiago Pereira Diniz Silva
+* Valdiney José do Nascimento
 ***
 
-##__Público Alvo__\
+## __Público Alvo__
 ***
-O nosso público alvo é um cliente específico sendo este um motorista autonomo que possue uma vam e presta serviço de transporte escolar.
+O nosso público alvo é um cliente específico, sendo este um motorista autônomo que possui uma van e presta serviço de transporte escolar.
 
-##**Objetivo**
+## **Objetivo**
 ***
 Criação de aplicativo
 
@@ -36,7 +36,8 @@ Definição de rota. A partir de um ponto de saída e um destino, o app sugere a
 
 Função “hora prevista”. O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta)
 
-![](https://www.figma.com/file/lSS3WnJYCSgczRPijLtzSp/prototipo?node-id=34%3A386)\
+![Tela](https://www.figma.com/file/lSS3WnJYCSgczRPijLtzSp/prototipo?node-id=34%3A386)
+![Tela do Motorista](https://1drv.ms/u/s!AoHv-G1m-uZHgXn1wBzzT6bYHdsy?e=GX7LYw)
 
 Entregas
 
