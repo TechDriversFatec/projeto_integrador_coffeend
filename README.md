@@ -30,9 +30,11 @@ Link da Tasks:<https://trello.com/b/8vxjN4nn/pi-fatec>
 Print do prototipo do Figma;
 ![Prototipo app no Figma](https://user-images.githubusercontent.com/71536881/95781833-fc2e6180-0ca4-11eb-909f-2e9ef1f99272.jpg)
 
+Video do app no MIT App Inventor:<https://youtu.be/7jszPXZ4jzQ>
+
 Link do App Inventor:<http://ai2.appinventor.mit.edu/?locale=pt#6053491800145920>
 
-![Print tela](https://user-images.githubusercontent.com/71536881/95776399-9fc64480-0c9a-11eb-97f9-55a167885833.png)
+![Tela_8 ](https://user-images.githubusercontent.com/71536881/96394287-f00c3d80-1197-11eb-9541-7e167fc6474d.jpg)
 
 Ferramentas Utilizadas:
 Figma, Videoask, WhatsApp, Meet, Teams, Scrum, Trello, MIT App Inventor.
@@ -40,15 +42,19 @@ Figma, Videoask, WhatsApp, Meet, Teams, Scrum, Trello, MIT App Inventor.
 
 Entregas
 
-1. Protótipo de telas 
-2. Melhorar as telas 
-3. Inclusão das telas do protótipo no app inventor 
-4. Dividir as tarefas em relação a programação das telas
+1. Sprint 0 - Protótipo de telas no Figma.
+2. Sprint 1 - Transpor telas do Figma para o MIT App Iventor e início da integração das telas.
+3. Sprint 2 - Termino da integração das telas e início da programação das telas do Motorista. 
+4. Sprint 3 - Programação das telas do motorista e início da programação das telas dos Usuários.
+5. Sprint 4 - Termino das programações e finalização do app para entrega final.
 
+***
 
-Observações; 
+Observações;
+
 Macro requisitos que o app deve atender:
-* Gerenciamento de destino. Cada destino possui descrição, local, horário de chegada e vota. Disponível apenas para o motorista.
+
+* Gerenciamento de destino. Cada destino possui descrição, local, horário de chegada e volta. Disponível apenas para o motorista.
 * Gerenciamento de passageiros. Cada passageiro tem nome, telefone de contato, endereço e um ou mais destinos. Disponível para o motorista.
 * Definição de rota. A partir de um ponto de saída e um destino, o app sugere a ordem em que os passageiros devem ser apanhados. O motorista pode definir, de acordo com sua experiência e condições de transito o horário estimado em que chegará na localidade de cada passageiro.
 * Função “hora prevista”. O app deve informar ao passageiro a hora prevista de chegada da van (na ida) e qual o horário previsto para entrega (na volta)
