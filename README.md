@@ -6,7 +6,7 @@
 * Amanda de Moraes Mendes
 * Bruna Maria da Silva Gonsalves - Master
 * Leonardo Rodrigues Miranda Lins - Master
-* Luan Pereira dos Santos Silva
+* Marcelo Fernando de Souza Teixeira - Master
 * Orlando Pereira de Seixas Neto
 * Thiago Pereira Diniz Silva
 * Valdiney José do Nascimento
@@ -23,18 +23,25 @@ Nosso objetivo é a integração entre motorista e passageiros, onde o motorista
 ***
 Criação de aplicativo
 
-Video de apresentação do prototipo:<https://www.videoask.com/fxvpnmq41>
+Video de apresentação do prototipo (Sprint-0):<https://www.videoask.com/fxvpnmq41>
 
-Link da Tasks:<https://trello.com/b/8vxjN4nn/pi-fatec>
+Link das Tasks:<https://trello.com/b/6XGaI9n2/vai-de-van>
 
 Print do prototipo do Figma;
 ![Prototipo app no Figma](https://user-images.githubusercontent.com/71536881/95781833-fc2e6180-0ca4-11eb-909f-2e9ef1f99272.jpg)
 
-Video do app no MIT App Inventor:<https://youtu.be/7jszPXZ4jzQ>
+Video do app no MIT App Inventor (Sprint-1):<https://youtu.be/7jszPXZ4jzQ>
 
 Link do App Inventor:<http://ai2.appinventor.mit.edu/?locale=pt#6053491800145920>
 
 ![Tela_8 ](https://user-images.githubusercontent.com/71536881/96394287-f00c3d80-1197-11eb-9541-7e167fc6474d.jpg)
+
+Video do app no MIT App Inventor (Sprint-2):<https://youtu.be/74iPmt_t3u4>
+
+![Tela de inserção de pontos](https://user-images.githubusercontent.com/71536881/98490674-f9298100-2210-11eb-9224-4c2d6778543c.jpg)
+
+Imagem abaixo é referente a progamação da tela de inserção de ponto:
+![Prog-tela-inserção-pontos](https://user-images.githubusercontent.com/71536881/98490179-7b18aa80-220f-11eb-95a6-92f7b8622c21.jpg)
 
 Ferramentas Utilizadas:
 Figma, Videoask, WhatsApp, Meet, Teams, Scrum, Trello, MIT App Inventor.
