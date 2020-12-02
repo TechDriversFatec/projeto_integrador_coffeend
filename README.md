@@ -43,6 +43,14 @@ Video do app no MIT App Inventor (Sprint-2):<https://youtu.be/74iPmt_t3u4>
 Imagem abaixo é referente a progamação da tela de inserção de ponto:
 ![Prog-tela-inserção-pontos](https://user-images.githubusercontent.com/71536881/98490179-7b18aa80-220f-11eb-95a6-92f7b8622c21.jpg)
 
+Video do app no MIT App Inventor (Sprint-3):<https://youtu.be/blNKX1gmekY>
+
+![Tela de cadastro de passageiro](https://user-images.githubusercontent.com/71536881/100817137-45d63580-3426-11eb-9160-eb6f7f2e8526.jpg)
+
+Imagem abaixo é referente a programação da tela de cadastro do passageiro:
+![Programação tela de cadastro](https://user-images.githubusercontent.com/71536881/100814046-91391580-341f-11eb-8379-27a116cb8bae.png)
+
+
 Ferramentas Utilizadas:
 Figma, Videoask, WhatsApp, Meet, Teams, Scrum, Trello, MIT App Inventor.
 
