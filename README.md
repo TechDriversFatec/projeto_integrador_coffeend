@@ -50,6 +50,7 @@ Video do app no MIT App Inventor (Sprint-3):<https://youtu.be/blNKX1gmekY>
 Imagem abaixo é referente a programação da tela de cadastro do passageiro:
 ![Programação tela de cadastro](https://user-images.githubusercontent.com/71536881/100814046-91391580-341f-11eb-8379-27a116cb8bae.png)
 
+Video do app no MIT App Inventor (Sprint Final):<https://youtu.be/pv4N1FjU36A>
 
 Ferramentas Utilizadas:
 Figma, Videoask, WhatsApp, Meet, Teams, Scrum, Trello, MIT App Inventor.
